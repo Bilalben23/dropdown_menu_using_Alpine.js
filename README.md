@@ -18,6 +18,6 @@ Through this project, I learned:
 - **State Management**: Learned how to handle visibility toggling and state changes in Alpine.js.
 
 ## preview
-- 
+- [live demo](https://bilalben23.github.io/dropdown_menu_using_Alpine.js/)
 
 ![ Dropdown menu Screenshot](https://github.com/Bilalben23/dropdown_menu_using_Alpine.js/assets/129977156/6f41ff4f-b74a-49d6-a02a-273ea5541551)
