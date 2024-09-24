@@ -16,6 +16,8 @@ This project showcases a simple yet interactive dropdown menu built using **Alpi
 Through this project, I learned:
 - **Alpine.js Basics**: Gained hands-on experience with Alpine.js's declarative syntax to handle DOM manipulations.
 - **State Management**: Learned how to handle visibility toggling and state changes in Alpine.js.
+- **Click Outside to Close**: The dropdown automatically closes when the user clicks outside of it, enhancing usability.
+  
 
 ## preview
 - [live demo](https://bilalben23.github.io/dropdown_menu_using_Alpine.js/)
